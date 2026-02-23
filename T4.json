@@ -69,12 +69,6 @@
 			"type": 4
 		},
 		{
-			"key": "py_小苹果",
-			"name": "小苹果M",
-			"type": 4,
-			"api": "https://py.doube.eu.org/v2/spider?site=9037cfae7c64405111e0e364401adb60"
-		},
-		{
 			"key": "py_官方采集789",
 			"name": "官方采集M",
 			"type": 4,
