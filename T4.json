@@ -2,7 +2,7 @@
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
 			"api": "https://newtv.ggff.net/douban?token=NtKuzkIw",
-			"indexs": 1,
+			"indexs": 0,
 			"key": "豆瓣首页",
 			"name": "豆瓣首页",
 			"searchable": 0,
@@ -39,12 +39,6 @@
 			"type": 4
 		},
 		{
-			"api": "https://tvbot.dpdns.org/py_jinpai.py",
-			"key": "嗷呜金牌影院",
-			"name": "嗷呜金牌影院",
-			"type": 3
-		},
-		{
 			"api": "https://newtv.ggff.net/jubaba?token=NtKuzkIw",
 			"key": "嗷呜剧爸爸",
 			"name": "嗷呜剧爸爸",
@@ -55,17 +49,6 @@
 			"key": "恰逢永乐",
 			"name": "恰逢永乐",
 			"type": 4
-		},
-		{
-			"api": "csp_AiyfAmns",
-			"changeable": 1,
-			"filterable": 1,
-			"jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-			"key": "嗷呜爱壹帆",
-			"name": "嗷呜爱壹帆",
-			"quickSearch": 1,
-			"searchable": 1,
-			"type": 3
 		},
 		{
 			"api": "https://newtv.ggff.net/duboku?token=NtKuzkIw",
